@@ -4,9 +4,8 @@
 
 
 ## Social :
-<a href="https://www.linkedin.com/in/anthony-perozeni-b6840a233/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=45px/></a>
+<a href="https://www.linkedin.com/in/geovany-cipriano-2952141b2/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=45px/></a>
 
-<a href="mailto:anthony.perozeni777@gmail.com"><img align="left" src="https://github.com/Anthonyp7/tassiaaccioly/blob/1778bc327b923343a4c958e4661e1f95f7d5ec88/gmail.svg" width=45px/></a> <br/><br/><br/>
 
 
 ## Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>:
