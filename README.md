@@ -4,7 +4,7 @@
 
 
 ## Social :
-<a href="https://www.linkedin.com/in/geovany-cipriano-2952141b2/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=45px/></a>
+<a href="https://www.linkedin.com/in/geovany-cipriano-2952141b2/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=45px/></a><br />
 
 
 
