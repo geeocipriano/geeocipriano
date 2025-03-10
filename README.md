@@ -24,7 +24,5 @@
 <img align="left" alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Visual Studio" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  <br/><br/><br/>
 
-## ⚙️ Git Analytics : 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=geeocipriano&show_icons=true&theme=midnight-purple"  />
 
 
